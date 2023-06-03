@@ -2,7 +2,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://samrat1507.io)
 <h1 align="center">Hi 👋, I'm Samrat</h1>
 <h3 align="center">A passionate Web developer and App developer from India</h3>
-<img  alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img  alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrat1507&label=Profile%20views&color=0e75b6&style=flat" alt="samrat1507" /> </p>
 
