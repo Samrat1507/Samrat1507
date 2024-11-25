@@ -10,13 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/thisissamrat7" target="blank"><img src="https://img.shields.io/twitter/follow/thisissamrat7?logo=twitter&style=for-the-badge" alt="thisissamrat7" /></a> </p>
 
-- 🔭 I’m currently working on [ArtLab](https://github.com/Samrat1507/ArtLab)
+- 🔭 I’m currently working on [Snowflake Pricing Calculator](https://github.com/Samrat1507/Snowflake_Pricing_Calculator)
 
-- 🌱 I’m currently learning **React ,Tailwind ,Kotlin**
+- 💬 Ask me about **Android ,MERN, Streamlit, Nextjs, ML, NLP**
 
-- 💬 Ask me about **Android ,MERN**
-
-- 📫 How to reach me **lazyworm7@gmail.com**
+- 📫 How to reach me **samratchakraborty1507@gmail.com**
 
 - ⚡ Fun fact **I am your Funny and Friendly Developer**
 
